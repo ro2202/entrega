@@ -179,4 +179,9 @@ input,textarea{
     .contenedorTejidos{
         grid-template-columns: 1fr 1fr;
     }
+    .encabezado{
+        height: auto;
+        flex-direction: column;
+        text-align: center;
+    }
 }
